@@ -22,13 +22,13 @@ This is a comprehensive data analysis project on NPS (Net Promoter Score) ticket
 - final_assignment.xlsx # Exported Excel analysis results
 - README.md # Project overview
 ## How to Run
-1. Clone the repository:
+- 1. Clone the repository:
 git clone https://github.com/Umesh594/NPS-Project.git
 Install dependencies:
 pip install pandas openpyxl
-Run the analysis:
+- Run the analysis:
 python scripts/task.py
-Check final_assignment.xlsx for all task reports.
+- Check final_assignment.xlsx for all task reports.
 ## Insights & Recommendations
 Enforce mandatory fields for tickets to reduce duplicates and missing data.
 Standardize issue categorization for accurate reporting.
